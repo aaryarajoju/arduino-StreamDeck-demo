@@ -1,0 +1,23 @@
+{
+  "name": "arduino-streamdeck-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaryarajoju/arduino-StreamDeck-demo.git"
+  },
+  "author": "AARYA RAJOJU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaryarajoju/arduino-StreamDeck-demo/issues"
+  },
+  "homepage": "https://github.com/aaryarajoju/arduino-StreamDeck-demo#readme",
+  "dependencies": {
+    "robotjs": "^0.6.0",
+    "serialport": "^9.2.0"
+  }
+}
